@@ -1,6 +1,5 @@
 # E-Mail-Verification-System
 A sleek PHP-powered email verification system that delights verified users with a daily dose of random XKCD comics. Seamlessly automated using CRON and shell scripts—secure, smart, and seriously fun. Backend brilliance meets geeky humor!
-Sure! Here’s a concise, eye-catching, and professional GitHub project description based on your input, highlighting your use of PHP and shell scripting, while keeping it under 1000 words:
 
 ---
 
